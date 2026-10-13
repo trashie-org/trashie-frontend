@@ -22,3 +22,7 @@ type: Task
 ## Effort
 
 - Story points
+
+## Priority
+
+- high/medium/low
